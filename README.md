@@ -53,7 +53,7 @@ A curated list of **Agentic AI** frameworks, libraries, standards, and resources
     *   [GitHub](https://github.com/kaiban-ai/KaibanJS)
 *   [**Praison AI**](https://docs.praison.ai/) - A low-code, centralized framework for building and managing multi-agent systems in TypeScript/JavaScript.
     *   [GitHub](https://github.com/MervinPraison/PraisonAI)
-    *   [**swarm-js**](https://github.com/brngdsn/swarm-js) - A lightweight, stateless multi-agent orchestration framework for Node.js.
+*   [**swarm-js**](https://github.com/brngdsn/swarm-js) - A lightweight, stateless multi-agent orchestration framework for Node.js.
 
 ## Distributed & Parallel Architectures
 
@@ -132,12 +132,12 @@ Critical observability, evaluation, and execution tools for production agents.
 *   [**Scrimba: The AI Engineer Path**](https://scrimba.com/learn/aiengineer) - Interactive, hands-on path specifically for JavaScript developers to become AI Engineers. Covers agents, OpenAI SDK, and vector DBs.
 *   [**Coursera: AI Agents in Typescript/Javascript Specialization**](https://www.coursera.org/specializations/ai-agents-typescript-javascript) - Comprehensive specialization by Vanderbilt University.
 *   [**Udemy: Production AI Agents with JavaScript**](https://www.udemy.com/course/production-ai-agents-with-javascript-langchain-langgraph/) - Focuses on "shippable agentic systems" with LangGraph.js.
-*   [**FreeAcademy.ai: Building Professional AI Agents**](https://www.freeacademy.ai/ai-agents-with-typescript) - Free course for building autonomous agents with Node.js & TypeScript.
+*   [**FreeAcademy.ai: Building Professional AI Agents**](https://freeacademy.ai/courses/ai-agents-nodejs-typescript) - Free course for building autonomous agents with Node.js & TypeScript.
 *   [**Vercel: AI SDK Documentation**](https://sdk.vercel.ai/docs) - Comprehensive docs and interactive guides for the Vercel AI SDK.
 
 ## Resources
 
-*   [**LangChain.js Agent Examples**](https://github.com/langchain-ai/langchainjs/blob/main/examples/src/agents) - Official examples of various agent types in LangChain.js.
+*   [**LangChain.js Agent Examples**](https://github.com/langchain-ai/langchainjs/blob/main/examples/src/) - Official examples of various agent types in LangChain.js.
 *   [**Vercel AI SDK Examples**](https://github.com/vercel/ai/tree/main/examples) - Example projects using the Vercel AI SDK.
 
 ## License
