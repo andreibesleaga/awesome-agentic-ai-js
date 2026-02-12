@@ -12,7 +12,7 @@ A curated list of **Agentic AI** frameworks, libraries, standards, and resources
 - [Multi-Agent Orchestration](#multi-agent-orchestration)
 - [Agentic Design Patterns](#agentic-design-patterns)
 - [JS Python Alternatives (CrewAI/AutoGen/DSPy)](#js-python-alternatives-crewaiautogendspy)
-- [Agent Implementations](#agent-implementations)
+- [Agent Implementations](#agentic-implementations)
 - [AI Databases & Memory](#ai-databases--memory)
 - [The "Missing" Stack (Evals, Ops, Sandbox)](#the-missing-stack-evals-ops-sandbox)
 - [Resources](#resources)
@@ -109,9 +109,33 @@ If you are coming from Python, here are the best JS/TS equivalents:
 | **AutoGen** | **[LangGraph.js](https://langchain-ai.github.io/langgraphjs/)** | For building custom, stateful multi-agent workflows (lower level than AutoGen). |
 | **DSPy** | **[ax-llm](https://github.com/ax-llm/ax)** | Declarative DSPy-like framework for TypeScript. |
 
-## Agent Implementations
+## Agentic Implementations
 
 *   [**BabyAGI JS**](https://github.com/ericciarla/babyagijs) - A JavaScript implementation of the specific "BabyAGI" autonomous agent architecture.
+
+### Tier 1: Simple Projects (Starters & Educational)
+
+*   [**create-agent-chat-app (LangGraph.js)**](https://github.com/langchain-ai/create-agent-chat-app)
+*   [**Vercel AI SDK Starters**](https://github.com/vercel/ai/tree/main/examples)
+*   [**Tiny Local LLM Agent (Maxheadbox)**](https://github.com/syxanash/maxheadbox)
+*   [**Simple Agentic System (No Framework / Tutorial)**](https://pguso.medium.com/agentic-ai-in-javascript-no-frameworks-dc9f8fcaecc3)
+
+### Tier 2: Medium Complexity (Specialized Tools)
+
+*   [**Site RAG (Chrome Extension)**](https://github.com/bracesproul/site-rag)
+*   [**Social Media Agent**](https://github.com/langchain-ai/social-media-agent)
+*   [**Fully Local PDF Chatbot**](https://github.com/jacoblee93/fully-local-pdf-chatbot)
+*   [**Claude-Code-Tips (CLI Patterns)**](https://github.com/ykdojo/claude-code-tips)
+
+### Tier 3: Complex Projects (Platforms & Orchestration)
+
+*   [**Open Agent Platform (OAP)**](https://github.com/langchain-ai/open-agent-platform)
+*   [**Open Canvas**](https://github.com/langchain-ai/open-canvas)
+*   [**LLManager (Reflection & Approval Workflow)**](https://github.com/langchain-ai/llmanager)
+*   [**Gen-UI Computer Use**](https://github.com/bracesproul/gen-ui-computer-use)
+*   [**Hive Agent (HiveJS)**](https://github.com/anetrebskii/hive-agent)
+*   [**Claude-007-Agents**](https://github.com/avivl/claude-007-agents)
+
 
 ## AI Databases & Memory
 
