@@ -11,7 +11,7 @@ A curated list of **Agentic AI** frameworks, libraries, standards, and resources
 - [Frameworks & SDKs](#frameworks--sdks)
 - [Multi-Agent Orchestration](#multi-agent-orchestration)
 - [Agentic Design Patterns](#agentic-design-patterns)
-- [Python Alternatives (CrewAI/AutoGen/DSPy)](#python-alternatives-crewaiautogendspy)
+- [JS Python Alternatives (CrewAI/AutoGen/DSPy)](#js-python-alternatives-crewaiautogendspy)
 - [Agent Implementations](#agent-implementations)
 - [AI Databases & Memory](#ai-databases--memory)
 - [The "Missing" Stack (Evals, Ops, Sandbox)](#the-missing-stack-evals-ops-sandbox)
@@ -98,7 +98,7 @@ Understanding these patterns is crucial for building effective agents in JS/TS.
     *   *Concept*: Forcing the LLM to output strictly structured JSON, essential for reliable tool calling.
     *   *JS Support*: Native in Vercel AI SDK (`generateObject`) and LangChain (`withStructuredOutput`).
 
-## Python Alternatives (CrewAI/AutoGen/DSPy)
+## JS Python Alternatives (CrewAI/AutoGen/DSPy)
 
 If you are coming from Python, here are the best JS/TS equivalents:
 
