@@ -7,6 +7,7 @@ A curated list of **Agentic AI** frameworks, libraries, standards, and resources
 ## Contents
 
 - [Standards & Protocols](#standards--protocols)
+- [Model SDKs](#model-sdks)
 - [Frameworks & SDKs](#frameworks--sdks)
 - [Multi-Agent Orchestration](#multi-agent-orchestration)
 - [Agentic Design Patterns](#agentic-design-patterns)
@@ -24,6 +25,18 @@ A curated list of **Agentic AI** frameworks, libraries, standards, and resources
     *   [TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for building MCP servers and clients.
 *   [**Agent2Agent (A2A) Protocol**](https://a2a-protocol.org/) - An open standard for communication and collaboration between AI agents.
     *   [JS/TS SDK](https://github.com/a2aproject/a2a-js) - Official SDK for building A2A-compliant agents.
+
+## Model SDKs
+
+*   [**OpenAI Node.js**](https://github.com/openai/openai-node) - Official Node.js/TypeScript library for the OpenAI API.
+*   [**Anthropic TypeScript**](https://github.com/anthropics/anthropic-sdk-typescript) - Official TypeScript library for the Anthropic API.
+*   [**Google Generative AI**](https://github.com/google/generative-ai-js) - Official Google Generative AI SDK for Node.js and web.
+*   [**Mistral Client**](https://github.com/mistralai/client-ts) - Official TypeScript client for Mistral AI.
+*   [**Hugging Face.js**](https://github.com/huggingface/huggingface.js) - Libraries to interact with Hugging Face API.
+*   [**Cohere**](https://github.com/cohere-ai/cohere-typescript) - Official TypeScript SDK for Cohere.
+*   [**Groq SDK**](https://github.com/groq/groq-typescript) - Official Groq TypeScript/Node.js library.
+*   [**Together AI**](https://github.com/togethercomputer/together-js) - Official TypeScript library for Together AI.
+*   [**Ollama JS**](https://github.com/ollama/ollama-js) - Official Ollama JavaScript library.
 
 ## Frameworks & SDKs
 
