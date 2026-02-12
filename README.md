@@ -30,12 +30,12 @@ A curated list of **Agentic AI** frameworks, libraries, standards, and resources
 
 *   [**OpenAI Node.js**](https://github.com/openai/openai-node) - Official Node.js/TypeScript library for the OpenAI API.
 *   [**Anthropic TypeScript**](https://github.com/anthropics/anthropic-sdk-typescript) - Official TypeScript library for the Anthropic API.
-*   [**Google Generative AI**](https://github.com/google/generative-ai-js) - Official Google Generative AI SDK for Node.js and web.
+*   [**Google Generative AI**](https://github.com/googleapis/js-genai) - Official Google Generative AI SDK for Node.js and web.
 *   [**Mistral Client**](https://github.com/mistralai/client-ts) - Official TypeScript client for Mistral AI.
 *   [**Hugging Face.js**](https://github.com/huggingface/huggingface.js) - Libraries to interact with Hugging Face API.
 *   [**Cohere**](https://github.com/cohere-ai/cohere-typescript) - Official TypeScript SDK for Cohere.
 *   [**Groq SDK**](https://github.com/groq/groq-typescript) - Official Groq TypeScript/Node.js library.
-*   [**Together AI**](https://github.com/togethercomputer/together-js) - Official TypeScript library for Together AI.
+*   [**Together AI**](https://github.com/togethercomputer/together-typescript) - Official TypeScript library for Together AI.
 *   [**Ollama JS**](https://github.com/ollama/ollama-js) - Official Ollama JavaScript library.
 
 ## Frameworks & SDKs
