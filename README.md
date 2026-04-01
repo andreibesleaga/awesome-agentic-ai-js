@@ -1,6 +1,6 @@
 # Awesome Agentic AI JS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of **Agentic AI** frameworks, libraries, standards, and resources specifically for **JavaScript** and **TypeScript** developers.
+A curated list of **Agentic AI** frameworks, libraries, standards, and resources specifically for **JavaScript** / **TypeScript** developers.
 
 > **Agentic AI** refers to AI systems that can independently perceive their environment, reason about how to achieve goals, and take actions (use tools) to accomplish those goals.
 
