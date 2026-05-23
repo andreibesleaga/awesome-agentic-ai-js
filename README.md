@@ -96,6 +96,7 @@ Tools and patterns for running agents in parallel, distributed, or high-concurre
 *   **Actor Model**
     *   *Concept*: Treating agents as independent "actors" that communicate via asynchronous messages. Ideal for isolated, distributed, and fault-tolerant agent systems.
     *   [**XState**](https://github.com/statelyai/xstate) - Robust state machine library with first-class Actor model support. Excellent for deterministic agent behavior.
+    *   [**Kaiban Distributed**](https://github.com/andreibesleaga/kaiban-distributed) - Distributed actor-model runtime for multi-agent systems with Redis/Kafka messaging, Kanban-style visibility, and KaibanJS integration.
 
 ## Type-Safe Prompting & Declarative DSLs
 
@@ -124,6 +125,7 @@ Browser automation and computer-use primitives for agents in JS/TS.
 ## Visual & Low-Code Agent Builders
 
 *   [**Flowise**](https://github.com/FlowiseAI/Flowise) - Node.js-based visual builder with the AgentFlow SDK and LangChain v1 integration.
+*   [**Dify**](https://github.com/langgenius/dify) - Open-source LLM app and agent platform with visual workflows, knowledge bases, tools, and API-first deployment options.
 *   [**n8n**](https://github.com/n8n-io/n8n) - TypeScript workflow platform with first-class AI / LangChain nodes.
 *   [**Activepieces**](https://github.com/activepieces/activepieces) - TypeScript open-source Zapier alternative with AI agent pieces.
 *   [**Langflow**](https://github.com/langflow-ai/langflow) - Python visual builder; usable from JS via API and MCP integration.
