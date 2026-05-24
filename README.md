@@ -64,7 +64,7 @@ A curated list of **Agentic AI** frameworks, libraries, standards, and resources
 *   [**Cloudflare Agents SDK**](https://github.com/cloudflare/agents) - TS agents running on Durable Objects with per-agent SQLite, WebSockets, scheduling, and HITL support.
 *   [**Convex Agent**](https://github.com/get-convex/agent) - TS component for stateful agents on Convex with threads, messages, Vercel AI SDK integration, and WebSocket streaming.
 *   [**ElizaOS**](https://github.com/elizaOS/eliza) - TypeScript "agentic OS" with a large plugin ecosystem (Discord, Twitter, Solana, EVM).
-*   [**Google ADK for TypeScript**](https://github.com/google/adk-typescript) - TypeScript port of Google's Agent Development Kit for code-first multi-agent systems.
+*   [**Google ADK for TypeScript**](https://github.com/google/adk-js) - TypeScript port of Google's Agent Development Kit for code-first multi-agent systems.
 
 ## Cloud & Commercial AI Agents
 
@@ -104,7 +104,7 @@ Libraries that bring TypeScript's type system to LLM I/O, structured outputs, an
 
 *   [**ax-llm**](https://github.com/ax-llm/ax) - DSPy-inspired declarative framework for TypeScript with signatures and optimisers.
 *   [**BAML**](https://github.com/BoundaryML/baml) - Schema-first prompting DSL with first-class TS codegen (Zod-typed clients, VS Code playground).
-*   [**GenSX**](https://github.com/gensx-inc/gensx) - TypeScript framework with React-like component composition for agents/workflows, built-in tracing, durable storage, and long-running deploys.
+*   [**GenSX**](https://github.com/gensx-inc/gensx) ⚠️ *(archived Oct 2025)* - TypeScript framework with React-like component composition for agents/workflows, built-in tracing, durable storage, and long-running deploys.
 *   [**Effect AI**](https://github.com/Effect-TS/effect) - The `@effect/ai` modules bring Effect-TS's typed-error and resource model to LLM calls.
 
 ## Browser & Computer-Use Agents
