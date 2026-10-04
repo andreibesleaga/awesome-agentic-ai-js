@@ -68,7 +68,7 @@ A curated list of **Agentic AI** frameworks, libraries, standards, and resources
 
 ## Cloud & Commercial AI Agents
 
-*   [**Google Vertex AI Node.js SDK**](https://github.com/googleapis/nodejs-vertexai) - Official SDK supporting Gemini function calling and agentic features.
+*   [**Google Vertex AI Node.js SDK**](https://github.com/googleapis/nodejs-agentplatform) - Official SDK supporting Gemini function calling and agentic features.
     *   *Note*: Google's **Agent Builder** also supports the A2A protocol.
 *   [**AWS Bedrock Agents**](https://docs.aws.amazon.com/bedrock/latest/userguide/agents.html) - Build and configure agents using Amazon Bedrock.
     *   [AWS SDK for JS v3](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/client/bedrock-agent/) - Clients for managing and invoking Bedrock Agents (`@aws-sdk/client-bedrock-agent`).
@@ -124,7 +124,7 @@ Browser automation and computer-use primitives for agents in JS/TS.
 
 ## Visual & Low-Code Agent Builders
 
-*   [**Flowise**](https://github.com/FlowiseAI/Flowise) - Node.js-based visual builder with the AgentFlow SDK and LangChain v1 integration.
+*   [**Flowise**](https://github.com/FlowiseAI/Flowise) ⚠️ *(archived)* - Node.js-based visual builder with the AgentFlow SDK and LangChain v1 integration.
 *   [**Dify**](https://github.com/langgenius/dify) - Open-source LLM app and agent platform with visual workflows, knowledge bases, tools, and API-first deployment options.
 *   [**n8n**](https://github.com/n8n-io/n8n) - TypeScript workflow platform with first-class AI / LangChain nodes.
 *   [**Activepieces**](https://github.com/activepieces/activepieces) - TypeScript open-source Zapier alternative with AI agent pieces.
@@ -165,7 +165,7 @@ If you are coming from Python, here are the best JS/TS equivalents:
 
 ### Tier 1: Simple Projects (Starters & Educational)
 
-*   [**create-agent-chat-app (LangGraph.js)**](https://github.com/langchain-ai/create-agent-chat-app)
+*   [**create-agent-chat-app (LangGraph.js)**](https://github.com/langchain-ai/create-agent-chat-app) ⚠️ *(archived)*
 *   [**Vercel AI SDK Starters**](https://github.com/vercel/ai/tree/main/examples)
 *   [**Tiny Local LLM Agent (Maxheadbox)**](https://github.com/syxanash/maxheadbox)
 *   [**Simple Agentic System (No Framework / Tutorial)**](https://pguso.medium.com/agentic-ai-in-javascript-no-frameworks-dc9f8fcaecc3)
@@ -178,9 +178,9 @@ If you are coming from Python, here are the best JS/TS equivalents:
 
 ### Tier 3: Complex Projects (Platforms & Orchestration)
 
-*   [**Open Agent Platform (OAP)**](https://github.com/langchain-ai/open-agent-platform)
-*   [**Open Canvas**](https://github.com/langchain-ai/open-canvas)
-*   [**LLManager (Reflection & Approval Workflow)**](https://github.com/langchain-ai/llmanager)
+*   [**Open Agent Platform (OAP)**](https://github.com/langchain-ai/open-agent-platform) ⚠️ *(archived)*
+*   [**Open Canvas**](https://github.com/langchain-ai/open-canvas) ⚠️ *(archived)*
+*   [**LLManager (Reflection & Approval Workflow)**](https://github.com/langchain-ai/llmanager) ⚠️ *(archived)*
 *   [**Gen-UI Computer Use**](https://github.com/bracesproul/gen-ui-computer-use)
 *   [**Tuplet (formerly Hive Agent)**](https://github.com/anetrebskii/tuplet)
 *   [**Claude-007-Agents**](https://github.com/avivl/claude-007-agents)
@@ -205,12 +205,11 @@ Tools for giving your agents long-term memory and context.
     *   [**Letta**](https://github.com/letta-ai/letta) - Stateful-agent platform with tiered memory; official `@letta-ai/letta-client` TS client.
     *   [**Cognee**](https://github.com/topoteretes/cognee) - Poly-store (graph + vector + relational) memory engine; usable from JS via REST.
 *   **RAG Engines**
-    *   [**r2r-js**](https://github.com/SciPhi-AI/r2r-js) - JS client for SciPhi R2R (production RAG with hybrid search, knowledge graphs, Deep Research API).
+    *   [**r2r-js**](https://github.com/SciPhi-AI/r2r-js) ⚠️ *(archived)* - JS client for SciPhi R2R (production RAG with hybrid search, knowledge graphs, Deep Research API).
 
 ## Knowledge Graphs for Agents
 
 *   [**Graphiti**](https://github.com/getzep/graphiti) - Bi-temporal knowledge-graph memory engine (powers Zep); usable from TS via REST.
-*   [**Neo4j GraphRAG (JS)**](https://github.com/neo4j/neo4j-graphrag-js) - Official JS package implementing GraphRAG patterns on Neo4j.
 *   [**Cognee**](https://github.com/topoteretes/cognee) - Hybrid KG + vector memory.
 
 ## Evaluation, Observability & Sandboxing
@@ -219,13 +218,13 @@ Critical observability, evaluation, and execution tools for production agents.
 
 *   **Sandboxing & Code Execution**
     *   [**E2B**](https://e2b.dev/) - Secure cloud sandboxes for AI-generated code execution. Node and Python SDKs.
-    *   [**Daytona SDK**](https://github.com/daytonaio/sdk) - ~90 ms sandbox spin-up, dual ESM/CJS TS SDK, computer-use support.
+    *   [**Daytona SDK**](https://github.com/daytona/sdk) ⚠️ *(archived)* - ~90 ms sandbox spin-up, dual ESM/CJS TS SDK, computer-use support.
     *   [**CodeSandbox SDK**](https://github.com/codesandbox/codesandbox-sdk) - TS SDK for spinning up VM sandboxes with fork/clone semantics.
     *   [**Runloop**](https://github.com/runloopai) - TS SDK for Runloop devboxes (long-lived agent VMs).
 *   **Evaluation**
     *   [**Promptfoo**](https://promptfoo.dev/) - CLI and library for evaluating LLM outputs and red-teaming agents; JS/TS-native.
     *   [**Evalite**](https://github.com/mattpocock/evalite) - Vitest-based TS-native LLM eval runner by Matt Pocock with a local UI and trace capture.
-    *   [**Braintrust SDK JS**](https://github.com/braintrustdata/braintrust-sdk) - Official TS SDK for the Braintrust eval/tracing platform.
+    *   [**Braintrust SDK JS**](https://github.com/braintrustdata/braintrust-sdk-javascript) - Official TS SDK for the Braintrust eval/tracing platform.
     *   [**AutoEvals**](https://github.com/braintrustdata/autoevals) - Standalone scorer library (factuality, safety, LLM-as-judge); pure TS package.
 *   **Observability & Tracing**
     *   [**LangSmith**](https://smith.langchain.com/) - The unified platform for debugging, testing, and monitoring AI (works great with LangChain/LangGraph).
@@ -318,7 +317,7 @@ Critical observability, evaluation, and execution tools for production agents.
 *   [**Vercel AI SDK Middleware**](https://ai-sdk.dev/docs/ai-sdk-core/middleware) - **TS-native** `wrapGenerate`/`wrapStream`/`transformParams` hooks for implementing guardrails, PII redaction, and logging.
 *   [**hai-guardrails**](https://github.com/presidio-oss/hai-guardrails) - **TypeScript** guardrails library for LLM applications.
 *   [**Lakera Guard**](https://www.lakera.ai/lakera-guard) - Runtime API for prompt-injection, jailbreak, PII, and agent tool-call policy enforcement; vendor-neutral REST API with JS/TS clients.
-*   [**NVIDIA NeMo Guardrails**](https://github.com/NVIDIA/NeMo-Guardrails) - Programmable guardrails (Colang DSL); Python runtime, callable from JS/TS apps via API.
+*   [**NVIDIA NeMo Guardrails**](https://github.com/NVIDIA-NeMo/Guardrails) - Programmable guardrails (Colang DSL); Python runtime, callable from JS/TS apps via API.
 *   [**Microsoft Presidio**](https://microsoft.github.io/presidio/) - PII detection and anonymisation SDK (Python core); commonly used as a redaction step in JS/TS pipelines via API or container.
 
 ---
