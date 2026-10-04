@@ -196,7 +196,7 @@ Tools for giving your agents long-term memory and context.
     *   [**Weaviate**](https://github.com/weaviate/typescript-client) - TypeScript client for Weaviate.
     *   [**LanceDB**](https://github.com/lancedb/lancedb) - Embedded multimodal vector DB with a first-class TS SDK ("SQLite for vectors").
     *   [**Qdrant JS**](https://github.com/qdrant/qdrant-js) - Official TS SDK (cloud + self-host).
-    *   [**Turbopuffer**](https://turbopuffer.com/docs/typescript) - Object-storage-backed serverless vector DB with an official TS SDK.
+    *   [**Turbopuffer**](https://github.com/turbopuffer/turbopuffer-typescript) - Object-storage-backed serverless vector DB with an official TS SDK.
     *   [**Cloudflare Vectorize**](https://developers.cloudflare.com/vectorize/) - Workers AI binding for vector search; pure JS/TS.
     *   [**Milvus JS**](https://github.com/milvus-io/milvus-sdk-node) - Official Node SDK for Milvus.
 *   **Memory Layers**
