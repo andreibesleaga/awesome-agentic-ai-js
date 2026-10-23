@@ -53,6 +53,8 @@ A curated list of **Agentic AI** frameworks, libraries, standards, and resources
 *   [**LangChain.js**](https://docs.langchain.com/oss/javascript/langchain/overview) - The JavaScript version of the popular framework for developing applications powered by language models. Includes robust support for agents and tools.
 *   [**Vercel AI SDK**](https://ai-sdk.dev/) - A TypeScript toolkit for building AI-powered applications with React, Next.js, Vue, Svelte, and Node.js. Features strict type safety and streaming support.
 *   [**OpenAI Agents SDK for JS/TS**](https://github.com/openai/openai-agents-js) - Official production-ready agent framework from OpenAI (successor to Swarm). Tools with Zod validation, MCP, Sessions, Realtime Agents, and Sandbox Agents.
+*   [**System One API**](https://github.com/ziyu/system-one-sdk) - Hosted decision layer for AI agents (Choice / Score / Noul) with a TypeScript SDK (`@system-one-ai/core`).
+    *   [Docs](https://system-one.dev/en/sdk)
 *   [**Mastra**](https://mastra.ai/) - A batteries-included TypeScript framework for building AI applications. Includes workflows, agents, RAG, and observability.
     *   [GitHub](https://github.com/mastra-ai/mastra)
 *   [**LlamaIndex.ts**](https://developers.llamaindex.ai/typescript/framework/) - A data framework for your LLM applications to ingest, structure, and access private or domain-specific data.
