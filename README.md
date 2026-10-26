@@ -67,6 +67,7 @@ A curated list of **Agentic AI** frameworks, libraries, standards, and resources
 *   [**Convex Agent**](https://github.com/get-convex/agent) - TS component for stateful agents on Convex with threads, messages, Vercel AI SDK integration, and WebSocket streaming.
 *   [**ElizaOS**](https://github.com/elizaOS/eliza) - TypeScript "agentic OS" with a large plugin ecosystem (Discord, Twitter, Solana, EVM).
 *   [**Google ADK for TypeScript**](https://github.com/google/adk-js) - TypeScript port of Google's Agent Development Kit for code-first multi-agent systems.
+*   [**Cognipeer Agent SDK**](https://github.com/Cognipeer/agent-sdk) - Lightweight, message-first TypeScript agent runtime with planning, history summarization, sub-agents, tool approvals, MCP support and OpenTelemetry trace export.
 
 ## Cloud & Commercial AI Agents
 
