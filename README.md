@@ -238,6 +238,7 @@ Critical observability, evaluation, and execution tools for production agents.
 
 *   [**LangChain.js Agent Examples**](https://github.com/langchain-ai/langchainjs/blob/main/examples/src/) - Official examples of various agent types in LangChain.js.
 *   [**Vercel AI SDK Examples**](https://github.com/vercel/ai/tree/main/examples) - Example projects using the Vercel AI SDK.
+*   [**NextJSON**](https://nextjson.com/) - Free online nested JSON parser and formatter for inspecting structured LLM and tool-call JSON output.
 
 ## Courses & Tutorials
 
