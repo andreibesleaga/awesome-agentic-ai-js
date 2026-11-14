@@ -109,6 +109,8 @@ Libraries that bring TypeScript's type system to LLM I/O, structured outputs, an
 *   [**BAML**](https://github.com/BoundaryML/baml) - Schema-first prompting DSL with first-class TS codegen (Zod-typed clients, VS Code playground).
 *   [**GenSX**](https://github.com/gensx-inc/gensx) ⚠️ *(archived Oct 2025)* - TypeScript framework with React-like component composition for agents/workflows, built-in tracing, durable storage, and long-running deploys.
 *   [**Effect AI**](https://github.com/Effect-TS/effect) - The `@effect/ai` modules bring Effect-TS's typed-error and resource model to LLM calls.
+*   [**NextJSON**](https://nextjson.com/) - Free online nested JSON parser and formatter for inspecting structured LLM and tool-call JSON output.
+*   [**JSON-TOON Gateway**](https://github.com/andreibesleaga/toon-gateway/) - Free gateway for a compact, human-readable on-the-fly encoding of the JSON data model built for LLM prompts.
 
 ## Browser & Computer-Use Agents
 
@@ -238,7 +240,6 @@ Critical observability, evaluation, and execution tools for production agents.
 
 *   [**LangChain.js Agent Examples**](https://github.com/langchain-ai/langchainjs/blob/main/examples/src/) - Official examples of various agent types in LangChain.js.
 *   [**Vercel AI SDK Examples**](https://github.com/vercel/ai/tree/main/examples) - Example projects using the Vercel AI SDK.
-*   [**NextJSON**](https://nextjson.com/) - Free online nested JSON parser and formatter for inspecting structured LLM and tool-call JSON output.
 
 ## Courses & Tutorials
 
