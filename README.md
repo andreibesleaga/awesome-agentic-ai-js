@@ -59,12 +59,11 @@ A curated list of **Agentic AI** frameworks, libraries, standards, and resources
     *   [GitHub](https://github.com/mastra-ai/mastra)
 *   [**LlamaIndex.ts**](https://developers.llamaindex.ai/typescript/framework/) - A data framework for your LLM applications to ingest, structure, and access private or domain-specific data.
 *   [**Firebase Genkit**](https://genkit.dev/) - An open-source framework for building AI-powered apps, designed by Google.
-*   [**Agentica**](https://github.com/wrtnlabs/agentica) - A TypeScript AI Function Calling Framework that allows you to define tools using standard TypeScript classes and types.
 *   [**VoltAgent**](https://voltagent.dev/) - An open-source TypeScript framework for building AI agents with built-in observability and memory.
     *   [GitHub](https://github.com/VoltAgent/voltagent)
 *   [**Inngest AgentKit**](https://github.com/inngest/agent-kit) - TypeScript multi-agent networks with deterministic state-based routing, MCP tools, and durable execution.
 *   [**Cloudflare Agents SDK**](https://github.com/cloudflare/agents) - TS agents running on Durable Objects with per-agent SQLite, WebSockets, scheduling, and HITL support.
-*   [**Convex Agent**](https://github.com/get-convex/agent) - TS component for stateful agents on Convex with threads, messages, Vercel AI SDK integration, and WebSocket streaming.
+*   [**Convex Agent**](https://github.com/convex/agent) - TS component for stateful agents on Convex with threads, messages, Vercel AI SDK integration, and WebSocket streaming.
 *   [**ElizaOS**](https://github.com/elizaOS/eliza) - TypeScript "agentic OS" with a large plugin ecosystem (Discord, Twitter, Solana, EVM).
 *   [**Google ADK for TypeScript**](https://github.com/google/adk-js) - TypeScript port of Google's Agent Development Kit for code-first multi-agent systems.
 *   [**Cognipeer Agent SDK**](https://github.com/Cognipeer/agent-sdk) - Lightweight, message-first TypeScript agent runtime with planning, history summarization, sub-agents, tool approvals, MCP support and OpenTelemetry trace export.
@@ -228,7 +227,7 @@ Critical observability, evaluation, and execution tools for production agents.
     *   [**Runloop**](https://github.com/runloopai) - TS SDK for Runloop devboxes (long-lived agent VMs).
 *   **Evaluation**
     *   [**Promptfoo**](https://promptfoo.dev/) - CLI and library for evaluating LLM outputs and red-teaming agents; JS/TS-native.
-    *   [**Evalite**](https://github.com/mattpocock/evalite) - Vitest-based TS-native LLM eval runner by Matt Pocock with a local UI and trace capture.
+    *   [**Evalite**](https://github.com/mattpocock/evalite) ⚠️ *(archived)* - Vitest-based TS-native LLM eval runner by Matt Pocock with a local UI and trace capture.
     *   [**Braintrust SDK JS**](https://github.com/braintrustdata/braintrust-sdk-javascript) - Official TS SDK for the Braintrust eval/tracing platform.
     *   [**AutoEvals**](https://github.com/braintrustdata/autoevals) - Standalone scorer library (factuality, safety, LLM-as-judge); pure TS package.
 *   **Observability & Tracing**
@@ -240,6 +239,7 @@ Critical observability, evaluation, and execution tools for production agents.
 
 *   [**LangChain.js Agent Examples**](https://github.com/langchain-ai/langchainjs/blob/main/examples/src/) - Official examples of various agent types in LangChain.js.
 *   [**Vercel AI SDK Examples**](https://github.com/vercel/ai/tree/main/examples) - Example projects using the Vercel AI SDK.
+*   [**Agentic AI Architectures: Multi-Agent System Patterns with TypeScript**](https://agenticaiarchitectures.com) - Book by Andrei N. Besleaga (Wiley; publication planned for 2026), with runnable TypeScript companion code in [agentic-ai-architectures](https://github.com/andreibesleaga/agentic-ai-architectures).
 
 ## Courses & Tutorials
 
