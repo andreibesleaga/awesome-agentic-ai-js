@@ -225,6 +225,7 @@ Critical observability, evaluation, and execution tools for production agents.
     *   [**Daytona SDK**](https://github.com/daytona/sdk) ⚠️ *(archived)* - ~90 ms sandbox spin-up, dual ESM/CJS TS SDK, computer-use support.
     *   [**CodeSandbox SDK**](https://github.com/codesandbox/codesandbox-sdk) - TS SDK for spinning up VM sandboxes with fork/clone semantics.
     *   [**Runloop**](https://github.com/runloopai) - TS SDK for Runloop devboxes (long-lived agent VMs).
+    *   [**Sandscale SDK**](https://github.com/sandscale/sandscale-js) - Apache-2.0 TS SDK for Sandscale Firecracker microVM sandboxes and workspaces (`@sandscale/sdk`).
 *   **Evaluation**
     *   [**Promptfoo**](https://promptfoo.dev/) - CLI and library for evaluating LLM outputs and red-teaming agents; JS/TS-native.
     *   [**Evalite**](https://github.com/mattpocock/evalite) ⚠️ *(archived)* - Vitest-based TS-native LLM eval runner by Matt Pocock with a local UI and trace capture.
